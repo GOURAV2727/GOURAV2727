@@ -28,9 +28,9 @@
 My name is [Gourav Kumar](https://github.com/GOURAV2727)! and I'm a Flutter and Data Science Enthusiast. I'm from India, living in Rajasthan and currently pursuing a Bachelor's Degree in Computer Science Engineering. I have practical experience in Flutter and Data Science. As, I made many projects on the same. I am deeply 
 Interested with Data Science and Flutter.
 
-
+<!--
 ## 🔥 Streak Stats
-
+-->
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 
 <!--<p align="center">
@@ -68,7 +68,7 @@ Interested with Data Science and Flutter.
     	<a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
 </p>
 
-<!--
+
 ### 🗄️ Databases and cloud hosting
 <p>
 	<a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
@@ -80,7 +80,7 @@ Interested with Data Science and Flutter.
     	<a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
     	
 </p>
--->
+
 
 ### 🔧 Software, Technologies and tools
 
@@ -101,13 +101,13 @@ Interested with Data Science and Flutter.
 </p>
 
 
----
+
  
  <p>
   <img align="left" alt="GIF" src="https://github.com/GOURAV2727/GOURAV2727/blob/master/icon/code.gif?raw=true" width="200" />
 </p>
 
-## <img src="https://raw.githubusercontent.com/Abhiyadav02/Abhiyadav02/master/icon/rockstar.gif" width="40px"> Boy Scout Rule 🏍️
+## <img src="https://raw.githubusercontent.com/GOURAV2727/GOURAV2727/master/icon/rockstar.gif" width="40px"> Boy Scout Rule 🏍️
 
 I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boy scout rule.  I contribute to things as I come across issues that I think other people might struggle with.  These may be things that are overlooked by someone who is deep into the library. I  a good onboarding readme with a good example. Moreover, I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source. 
 <!--
@@ -139,7 +139,7 @@ A sample of my recent articles:
 <details>
 	<summary>⚡ Top GitHub Directories</summary>
 	<br/>
-	<a href="https://github.com/GOURAV2727/GOURAV2727"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GOURAV2727&repo=aboutme&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<a href="https://github.com/GOURAV2727/GOURAV2727"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GOURAV2727&repo=GOURAV2727&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 	<a href="https://github.com/GOURAV2727/clockify-clone"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GOURAV2727&repo=clockify-clone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 	<!--<a href="https://github.com/Abhiyadav02/Resturant-Review-analysis-using-NLP"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiyadav02&repo=Resturant-Review-analysis-using-NLP&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>-->
 	<a href="https://github.com/GOURAV2727/Basic_Banking_Website"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GOURAV2727&repo=Basic_Banking_Website&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
