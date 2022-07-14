@@ -1,22 +1,22 @@
 <!-- Greetings -->
 <h1 align="center">
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	Hi, This is Abhishek Yadav
+	Hi, This is Gourav Kumar
 	<img src="https://emoji.discord.st/emojis/dc5dc637-3062-4bb8-a984-93823e531596.gif" width="30">
 </h1>
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=6000&lines=I+am++into++Flutter+Development;I+am++into++Data+Science;I+am++into++Machine+Learning;I+am++into++Computer+Vision!!&center=true&width=380&height=45"></a>
+	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23BD561D&duration=6000&lines=I+am++into++Flutter+Development;I+am++into++Data+Science;I+am++into++Machine+Learning;!!&center=true&width=380&height=45"></a>
 </p>
 
 <!-- Social badges section -->
 
 <p align="center">
-	<a href="https://github.com/Abhiyadav02/"><img alt="Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Abhiyadav02&label=Profile%20Views&color=red&style=for-the-badge"/></a>
-	<a href="https://github.com/Abhiyadav02?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Abhiyadav02"/></a>
-  	<a href="https://github.com/Abhiyadav02?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Abhiyadav02?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+	<a href="https://github.com/GOURAV2727/"><img alt="Views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=GOURAV2727&label=Profile%20Views&color=red&style=for-the-badge"/></a>
+	<a href="https://github.com/GOURAV2727?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/GOURAV2727"/></a>
+  	<a href="https://github.com/GOURAV2727?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/GOURAV2727?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 	
 </p>
 
@@ -25,19 +25,20 @@
 <hr/>
 
 <!-- Introduction -->
-My name is [Abhishek Yadav](https://github.com/Abhiyadav02)! and I'm a Flutter and Data Science Enthusiast. I'm from India, living in Rajasthan and currently pursuing a Bachelor's Degree in Computer Science Engineering. I have practical experience in Flutter and Data Science. As, I made many projects on the same. I am deeply in love with Data Science and Flutter.
+My name is [Gourav Kumar](https://github.com/GOURAV2727)! and I'm a Flutter and Data Science Enthusiast. I'm from India, living in Rajasthan and currently pursuing a Bachelor's Degree in Computer Science Engineering. I have practical experience in Flutter and Data Science. As, I made many projects on the same. I am deeply 
+Interested with Data Science and Flutter.
 
 
 ## 🔥 Streak Stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 
-<p align="center">
+<!--<p align="center">
 	<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
 		<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhishek Yadav streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhiyadav02&theme=monokai-metallian&hide_border=true"/></a>
 <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
-
+-->
 
 ## 🛠️ My Favorite Tools
 
@@ -77,7 +78,7 @@ My name is [Abhishek Yadav](https://github.com/Abhiyadav02)! and I'm a Flutter a
     	<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
    	<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     	<a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
-    	<a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+    	
 </p>
 -->
 
@@ -92,8 +93,6 @@ My name is [Abhishek Yadav](https://github.com/Abhiyadav02)! and I'm a Flutter a
     	<a href="#"><img alt="VIDE-JupyterNotebook" src="https://img.shields.io/badge/Jupyter%20NoteBook-F37626.svg?logo=Jupyter&logoColor=white"></a>
 	<a href="#"><img alt="Tech-MachineLearning" src="https://img.shields.io/badge/Machine%20Learning-F05033.svg?logo=git&logoColor=white"></a>
     	<a href="#"><img alt="Tech-DataScience" src="https://img.shields.io/badge/Data%20Science-18A497?logo=teradata&logoColor=white"></a>
-    	<a href="#"><img alt="Tech-DataMining" src="https://img.shields.io/badge/Data%20Mining-FF6C37?logo=teradata&logoColor=white"></a>
-	<a href="#"><img alt="Tech-ComputerVision" src="https://img.shields.io/badge/Computer%20Vision-3DDC84?logo=teradata&logoColor=white"></a>
 	<a href="#"><img alt="Gitbash" src="https://img.shields.io/badge/Gitbash-DD1100.svg?logo=github&logoColor=white"></a>
     	<a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
 	<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
@@ -105,12 +104,12 @@ My name is [Abhishek Yadav](https://github.com/Abhiyadav02)! and I'm a Flutter a
 ---
  
  <p>
-  <img align="left" alt="GIF" src="https://github.com/Abhiyadav02/Abhiyadav02/blob/master/icon/code.gif?raw=true" width="200" />
+  <img align="left" alt="GIF" src="https://github.com/GOURAV2727/GOURAV2727/blob/master/icon/code.gif?raw=true" width="200" />
 </p>
 
 ## <img src="https://raw.githubusercontent.com/Abhiyadav02/Abhiyadav02/master/icon/rockstar.gif" width="40px"> Boy Scout Rule 🏍️
 
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boy scout rule.  I contribute to things as I come across issues that I think other people might struggle with.  These may be things that are overlooked by someone who is deep into the library. I 💕 a good onboarding readme with a good example. Moreover, I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source. 
+I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boy scout rule.  I contribute to things as I come across issues that I think other people might struggle with.  These may be things that are overlooked by someone who is deep into the library. I  a good onboarding readme with a good example. Moreover, I learned a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source. 
 <!--
 ## &#x270d; Blog & Writing 📕
 
@@ -131,8 +130,8 @@ A sample of my recent articles:
 <details>
 	<summary>💻 GitHub Profile Stats</summary>
 	<br/>
-	<a href="https://github.com/Abhiyadav02/Abhiyadav02"><img alt="Abhishek Yadav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhiyadav02&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"  height="188px"/></a>
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Abhishek Yadav's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiyadav02&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="188px"/></a>
+	<a href="https://github.com/GOURAV2727/GOURAV2727"><img alt="Abhishek Yadav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GOURAV2727&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"  height="188px"/></a>
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Gourav kumar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOURAV2727&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="188px"/></a>
   <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
@@ -140,31 +139,31 @@ A sample of my recent articles:
 <details>
 	<summary>⚡ Top GitHub Directories</summary>
 	<br/>
-	<a href="https://github.com/Abhiyadav02/Abhiyadav02"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiyadav02&repo=aboutme&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/Abhiyadav02/NITTTR_DATA_SCIENCE_2022"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiyadav02&repo=NITTTR_DATA_SCIENCE_2022&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/Abhiyadav02/Resturant-Review-analysis-using-NLP"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiyadav02&repo=Resturant-Review-analysis-using-NLP&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/Abhiyadav02/Basic-Banking-Website"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiyadav02&repo=Basic-Banking-Website&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<a href="https://github.com/GOURAV2727/GOURAV2727"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GOURAV2727&repo=aboutme&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<a href="https://github.com/GOURAV2727/clockify-clone"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GOURAV2727&repo=clockify-clone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<!--<a href="https://github.com/Abhiyadav02/Resturant-Review-analysis-using-NLP"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiyadav02&repo=Resturant-Review-analysis-using-NLP&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>-->
+	<a href="https://github.com/GOURAV2727/Basic_Banking_Website"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GOURAV2727&repo=Basic_Banking_Website&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 	<!--<a href="https://github.com/Abhiyadav02/Diabetes-prediction"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiyadav02&repo=Diabetes-prediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>-->
 </details>
 
 
 
-## ✡️ Stargazers 👇
+<!--## ✡️ Stargazers 👇
 
 [![Stargazers repo roster for @Abhiyadav02/Abhiyadav02](https://reporoster.com/stars/Abhiyadav02/Abhiyadav02)](https://github.com/Abhiyadav02/Abhiyadav02/stargazers)
-
+-->
 ## 🙋‍♂️ Let's Connect
 <div align="center">
 	<!--
 	<a href="link" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" title="WebSite" alt="WebSite"/></a>
 	-->
-	<a href="https://github.com/Abhiyadav02" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title="Github Profile" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/abhishek-yadav-274820196/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title="Linkedin Profile" alt="LinkedIn"/></a>
+	<a href="https://github.com/GOURAV2727" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title="Github Profile" alt="GitHub"/></a>
+	<!--<a href="https://www.linkedin.com/in/abhishek-yadav-274820196/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title="Linkedin Profile" alt="LinkedIn"/></a>-->
 	<!--
 	<a href="https://www.facebook.com/thenomaniqbal/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" title="Facebook Profile" alt="Facebook"/></a>
 	-->
-	<a href="https://www.instagram.com/abhishek_02yadav/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" title="Instagram Profile" alt="Instagram"/></a>
-	<a href="mailto:yadavabhishekrao2002@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title="Email Me:" alt="Gmail"/></a>
+	<a href="https://www.instagram.com/gourav_singh_27/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" title="Instagram Profile" alt="Instagram"/></a>
+	<a href="mailto:gouravsingh272727@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title="Email Me:" alt="Gmail"/></a>
 </div>
 
 <!--
@@ -178,7 +177,7 @@ A sample of my recent articles:
 -->
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
-<div align="center" ><img alt="" width="100%" src="https://github.com/Abhiyadav02/aboutme/blob/master/icon/footer.png"></div>
+<div align="center" ><img alt="" width="100%" src="https://github.com/GOURAV2727/aboutme/blob/master/icon/footer.png"></div>
 	
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
