@@ -140,8 +140,8 @@ A sample of my recent articles:
 	<summary>⚡ Top GitHub Directories</summary>
 	<br/>
 	<a href="https://github.com/GOURAV2727/GOURAV2727"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GOURAV2727&repo=GOURAV2727&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<a href="https://github.com/GOURAV2727/clockify-clone"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GOURAV2727&repo=clockify-clone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
-	<!--<a href="https://github.com/Abhiyadav02/Resturant-Review-analysis-using-NLP"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiyadav02&repo=Resturant-Review-analysis-using-NLP&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>-->
+	<a href="https://github.com/esarda02/clockify-clone"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=esarda02&repo=clockify-clone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
+	<!--<a href="https://github.com//Resturant-Review-analysis-using-NLP"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiyadav02&repo=Resturant-Review-analysis-using-NLP&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>-->
 	<a href="https://github.com/GOURAV2727/Basic_Banking_Website"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GOURAV2727&repo=Basic_Banking_Website&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>
 	<!--<a href="https://github.com/Abhiyadav02/Diabetes-prediction"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhiyadav02&repo=Diabetes-prediction&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a>-->
 </details>
